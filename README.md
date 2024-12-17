@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# AI_NFT_Generator
-Minting the AI generated NFT's 
-=======
+
+# README.md
+- Minting the AI generated NFT's 
+
 # AI NFT Generator
 
 ## Technology Stack & Tools
@@ -45,4 +45,4 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
->>>>>>> 87e9628 (Initial Code)
+
